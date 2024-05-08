@@ -39,4 +39,4 @@ jobs:
       with:
         name: apk
         path: |
-          hands/build/outputs/apk/release/*
+          app/build/outputs/apk/release/*
